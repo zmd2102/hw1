@@ -1,0 +1,34 @@
+.navbar-light .navbar-brand {
+    border: 15px solid rgb(11, 104, 96);
+    background-color: rgb(11, 104, 96);
+    font-size: 30px;
+    color: white;
+}
+.aboutmetitle {
+    font-size: 50px;
+    color: rgb(11, 104, 96);
+    font-family: cursive;
+}
+.navbar-newone {
+    margin-left: 75%;
+}
+.jumbotron {
+    background-color: white;
+    bottom: 0;
+}
+.navbar-top {
+    background-color: white !important;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 5%;
+    background-color: grey;
+    text-align: center;
+    border-top: 5px solid rgb(11, 104, 96);
+ }
+ img {
+     float: left;
+ }
